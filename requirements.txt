@@ -1,8 +1,9 @@
-gdown
-tensorflow
 flask
 flask-cors
-numpy
-pillow
-joblib
 gunicorn
+numpy
+tensorflow
+Pillow
+joblib
+gdown
+scikit-learn
